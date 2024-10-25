@@ -65,7 +65,7 @@ outlook-account-checker/
 ├── chromedriver.exe         # Driver necessário para automação (versão correspondente ao seu navegador)
 ├── contas.txt               # Arquivo de entrada com as credenciais (email;senha)
 ├── contasuteis.txt          # Arquivo de saída com as contas verificadas com sucesso
-├── main.py      # Script principal para verificar as contas
+├── main.py                  # Script principal para verificar as contas
 └── requirements.txt         # Dependências do projeto
 ```
 
