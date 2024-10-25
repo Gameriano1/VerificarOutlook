@@ -1,0 +1,3 @@
+selenium==4.25.0
+TempMail==3.0
+tempmail_lol==2.0.0
