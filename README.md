@@ -14,7 +14,7 @@ Este é um programa em Python para verificação automática de contas do Outloo
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu_usuario/outlook-account-checker.git
+   git clonehttps://github.com/Gameriano1/VerificarOutlook.git
    cd outlook-account-checker
    ```
 
